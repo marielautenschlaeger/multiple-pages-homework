@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    font-weight: lighter;
+}
+.linking{
+    text-align: center;
+}
+
+a, a:hover, a:focus, a:active {
+    text-decoration: underlined;
+    color: inherit;
+}
